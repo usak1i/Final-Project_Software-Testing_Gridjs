@@ -88,7 +88,7 @@
     "postcss-cli": "^9.1.0",
     "postcss-nested": "^5.0.6",
     "postcss-scss": "^4.0.4",
-    "postcss-sort-media-queries": "^4.1.0",
+    "postcss-sort-media-queries": "^5.2.0",
     "prettier": "~2.7.1",
     "rimraf": "~3.0.2",
     "sass": "^1.54.5",
